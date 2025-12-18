@@ -1,4 +1,4 @@
-<img width="1915" height="708" alt="Screenshot 2025-12-18 184132" src="https://github.com/user-attachments/assets/8f092010-14f8-4064-a4c9-ce2461ff9100" /># JKFLIPFLOP-USING-IF-ELSE
+EXPERIMENT 5: IMPLEMENTATION OF JK FLIPFLOP
 
 Name: Kanishka G
 
