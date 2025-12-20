@@ -80,15 +80,11 @@ end
 
 endmodule 
  
-
-
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1917" height="841" alt="Screenshot 2025-12-18 184121" src="https://github.com/user-attachments/assets/eab1fa89-0646-4144-a19e-26872920257c" />
-
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1915" height="708" alt="Screenshot 2025-12-18 184132" src="https://github.com/user-attachments/assets/23ce29f1-c829-4e2d-bad6-b6de174e0ad9" />
 
 **RESULTS**
 Thus the truth table and logic diagram of JK flipflop is verified in Quartus || in verilog HDL.
-
